@@ -13,7 +13,7 @@
 	- Play!!
 
 
-# Ideias futuras para o projeto:
-        - Aplicar IA nas jogadas da CPU
-	- Tratar outros erros
-	- Fazer uma GUI simples
+## Ideias futuras para o projeto:
+- Aplicar IA nas jogadas da CPU
+- Tratar outros erros
+- Fazer uma GUI simples
